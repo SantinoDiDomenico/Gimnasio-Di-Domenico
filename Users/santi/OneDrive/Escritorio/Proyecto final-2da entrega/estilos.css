@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+.bg-primary{
+    background-image: url(img/portada1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.presentacion{
+    height: 400px;
+    color:rgb(46, 190, 111) ;
+    font-family: 'Anton';
+    letter-spacing: 0.3em;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.btn{
+    background-color: rgba(216, 43, 78, 0.856);
+    box-shadow: 10px 10px 5px -5px rgba(0,0,0,0.46);
+    margin-bottom: 0.2em;
+}
+
+h3{
+    margin-top: 0.1em;
+}
+
+
+footer{
+    background-color: rgb(46, 190, 111);
+    padding: 1em;
+    margin-top: 2em;
+    
+}
+
+.redes li{
+    width: 50px;
+    list-style: none;
+}
+
+
+.titulo{
+    text-align: center;
+    font-family: 'Anton';
+    letter-spacing: 0.1em;
+    background-color: rgba(238, 38, 78, 0.644);
+    margin-bottom: -0.1px;
+}
+
+.nosotros{
+    height: 600px;
+    margin: auto;
+}
+
+.nright{
+    background-image: url(img/galeria1.webp);
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+
